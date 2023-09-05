@@ -28,7 +28,7 @@ global health by studying and attempting to reduce the likelihood of heart disea
 You can view the PDF document by clicking on the following link:
 
 [Open PDF Document](https://mozilla.github.io/pdf.js/web/viewer.html?file=./report.pdf)
-Alternatively, you can [download the PDF](./your-pdf-file.pdf) directly.
+Alternatively, you can [download the PDF](./report.pdf) directly.
 
 
 
