@@ -11,11 +11,18 @@ Welcome to the GitHub repository for our team project in the IND5022 Data Analyt
 - Yang Leying (A0254381E)
 - Zhang Wentao (A0232358E)
 
-Please feel free to explore our project and its documentation. If you have any questions or suggestions, don't hesitate to reach out to us.
-
 ## Project Description
 
-[Include a brief description of your project here.]
+[According to the World Health Organization, heart disease is the leading cause of
+death for both men and women worldwide, accounting for an estimated 32 percent of
+deaths, making it even more important to focus on and prioritize heart health. In 2017, heart disease was listed as the underlying cause of over 860,000 deaths in the United
+States. Each year, approximately 659,000 people in the United States die as a result of
+heart disease. This means that heart disease kills one out of every four people in the
+United States. The increasing number of heart disease deaths caught the attention and interest of our
+team. Our team is committed to using data analysis and mechanistic learning to solve
+real-world problems. We decided to use data analysis and machine learning to analyze
+and solve potential problems inside the data of heart disease and work to contribute to
+global health by studying and attempting to reduce the likelihood of heart disease]
 
 ## Usage
 
