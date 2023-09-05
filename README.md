@@ -24,17 +24,7 @@ real-world problems. We decided to use data analysis and machine learning to ana
 and solve potential problems inside the data of heart disease and work to contribute to
 global health by studying and attempting to reduce the likelihood of heart disease]
 
-## Usage
 
-[Provide instructions on how to use or run your project, if applicable.]
-
-## Documentation
-
-[Include links to any project documentation or reports, if available.]
-
-## License
-
-[Specify the license under which your project is released, if applicable.]
 
 ## Acknowledgments
 
