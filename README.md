@@ -24,6 +24,12 @@ real-world problems. We decided to use data analysis and machine learning to ana
 and solve potential problems inside the data of heart disease and work to contribute to
 global health by studying and attempting to reduce the likelihood of heart disease]
 
+### Report
+You can view the PDF document by clicking on the following link:
+
+[Open PDF Document](https://mozilla.github.io/pdf.js/web/viewer.html?file=your-pdf-file.pdf)
+Alternatively, you can [download the PDF](./your-pdf-file.pdf) directly.
+
 
 
 ## Acknowledgments
