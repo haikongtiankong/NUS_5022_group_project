@@ -27,7 +27,7 @@ global health by studying and attempting to reduce the likelihood of heart disea
 ### Report
 You can view the PDF document by clicking on the following link:
 
-[Open PDF Document](https://mozilla.github.io/pdf.js/web/viewer.html?file=[./main/report.pdf](https://github.com/haikongtiankong/NUS_5022_group_project/blob/main/report.pdf)https://github.com/haikongtiankong/NUS_5022_group_project/blob/main/report.pdf)
+[Open PDF Document](https://mozilla.github.io/pdf.js/web/viewer.html?file=https://github.com/haikongtiankong/NUS_5022_group_project/blob/main/report.pdf)
 Alternatively, you can [download the PDF](./report.pdf) directly.
 
 
